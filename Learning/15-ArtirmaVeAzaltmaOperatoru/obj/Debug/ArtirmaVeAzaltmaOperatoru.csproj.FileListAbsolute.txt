@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\ArtirmaVeAzaltmaOperatoru\bin\Debug\ArtirmaVeAzaltmaOperatoru.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\ArtirmaVeAzaltmaOperatoru\bin\Debug\ArtirmaVeAzaltmaOperatoru.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\ArtirmaVeAzaltmaOperatoru\bin\Debug\ArtirmaVeAzaltmaOperatoru.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\ArtirmaVeAzaltmaOperatoru\obj\Debug\ArtirmaVeAzaltmaOperatoru.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\ArtirmaVeAzaltmaOperatoru\obj\Debug\ArtirmaVeAzaltmaOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\ArtirmaVeAzaltmaOperatoru\obj\Debug\ArtirmaVeAzaltmaOperatoru.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\ArtirmaVeAzaltmaOperatoru\obj\Debug\ArtirmaVeAzaltmaOperatoru.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\ArtirmaVeAzaltmaOperatoru\obj\Debug\ArtirmaVeAzaltmaOperatoru.pdb

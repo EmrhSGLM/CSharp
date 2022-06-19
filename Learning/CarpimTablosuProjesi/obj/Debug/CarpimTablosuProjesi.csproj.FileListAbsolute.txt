@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\CarpimTablosuProjesi\bin\Debug\CarpimTablosuProjesi.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\CarpimTablosuProjesi\bin\Debug\CarpimTablosuProjesi.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\CarpimTablosuProjesi\bin\Debug\CarpimTablosuProjesi.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\CarpimTablosuProjesi\obj\Debug\CarpimTablosuProjesi.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\CarpimTablosuProjesi\obj\Debug\CarpimTablosuProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\CarpimTablosuProjesi\obj\Debug\CarpimTablosuProjesi.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\CarpimTablosuProjesi\obj\Debug\CarpimTablosuProjesi.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\CarpimTablosuProjesi\obj\Debug\CarpimTablosuProjesi.pdb

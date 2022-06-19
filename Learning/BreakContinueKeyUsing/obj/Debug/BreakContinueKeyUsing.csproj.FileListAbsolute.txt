@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BreakContinueKeyUsing\bin\Debug\BreakContinueKeyUsing.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BreakContinueKeyUsing\bin\Debug\BreakContinueKeyUsing.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BreakContinueKeyUsing\bin\Debug\BreakContinueKeyUsing.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BreakContinueKeyUsing\obj\Debug\BreakContinueKeyUsing.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BreakContinueKeyUsing\obj\Debug\BreakContinueKeyUsing.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BreakContinueKeyUsing\obj\Debug\BreakContinueKeyUsing.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BreakContinueKeyUsing\obj\Debug\BreakContinueKeyUsing.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BreakContinueKeyUsing\obj\Debug\BreakContinueKeyUsing.pdb

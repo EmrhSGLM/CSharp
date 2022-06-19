@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BreakpointAndToolTypeOnemi\bin\Debug\BreakpointAndToolTypeOnemi.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BreakpointAndToolTypeOnemi\bin\Debug\BreakpointAndToolTypeOnemi.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BreakpointAndToolTypeOnemi\bin\Debug\BreakpointAndToolTypeOnemi.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BreakpointAndToolTypeOnemi\obj\Debug\BreakpointAndToolTypeOnemi.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BreakpointAndToolTypeOnemi\obj\Debug\BreakpointAndToolTypeOnemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BreakpointAndToolTypeOnemi\obj\Debug\BreakpointAndToolTypeOnemi.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BreakpointAndToolTypeOnemi\obj\Debug\BreakpointAndToolTypeOnemi.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BreakpointAndToolTypeOnemi\obj\Debug\BreakpointAndToolTypeOnemi.pdb

@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\ForDongusu\bin\Debug\ForDongusu.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\ForDongusu\bin\Debug\ForDongusu.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\ForDongusu\bin\Debug\ForDongusu.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\ForDongusu\obj\Debug\ForDongusu.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\ForDongusu\obj\Debug\ForDongusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\ForDongusu\obj\Debug\ForDongusu.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\ForDongusu\obj\Debug\ForDongusu.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\ForDongusu\obj\Debug\ForDongusu.pdb

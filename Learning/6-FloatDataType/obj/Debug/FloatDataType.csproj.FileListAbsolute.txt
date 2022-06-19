@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\FloatDataType\obj\Debug\FloatDataType.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\FloatDataType\obj\Debug\FloatDataType.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\FloatDataType\obj\Debug\FloatDataType.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\FloatDataType\bin\Debug\FloatDataType.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\FloatDataType\bin\Debug\FloatDataType.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\FloatDataType\bin\Debug\FloatDataType.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\FloatDataType\obj\Debug\FloatDataType.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\FloatDataType\obj\Debug\FloatDataType.pdb

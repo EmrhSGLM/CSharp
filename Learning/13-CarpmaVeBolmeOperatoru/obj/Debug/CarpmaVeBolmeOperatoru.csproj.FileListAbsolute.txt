@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\CaromaVeBolmeOperatoru\bin\Debug\CaromaVeBolmeOperatoru.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\CaromaVeBolmeOperatoru\bin\Debug\CaromaVeBolmeOperatoru.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\CaromaVeBolmeOperatoru\bin\Debug\CaromaVeBolmeOperatoru.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\CaromaVeBolmeOperatoru\obj\Debug\CarpmaVeBolmeOperatoru.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\CaromaVeBolmeOperatoru\obj\Debug\CarpmaVeBolmeOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\CaromaVeBolmeOperatoru\obj\Debug\CarpmaVeBolmeOperatoru.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\CaromaVeBolmeOperatoru\obj\Debug\CaromaVeBolmeOperatoru.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\CaromaVeBolmeOperatoru\obj\Debug\CaromaVeBolmeOperatoru.pdb

@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\NestedForLoops\bin\Debug\NestedForLoops.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\NestedForLoops\bin\Debug\NestedForLoops.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\NestedForLoops\bin\Debug\NestedForLoops.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\NestedForLoops\obj\Debug\NestedForLoops.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\NestedForLoops\obj\Debug\NestedForLoops.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\NestedForLoops\obj\Debug\NestedForLoops.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\NestedForLoops\obj\Debug\NestedForLoops.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\NestedForLoops\obj\Debug\NestedForLoops.pdb

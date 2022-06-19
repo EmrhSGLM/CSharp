@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\KucukVeKucukEsittirOpearoru\bin\Debug\KucukVeKucukEsittirOpearoru.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\KucukVeKucukEsittirOpearoru\bin\Debug\KucukVeKucukEsittirOpearoru.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\KucukVeKucukEsittirOpearoru\bin\Debug\KucukVeKucukEsittirOpearoru.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\KucukVeKucukEsittirOpearoru\obj\Debug\KucukVeKucukEsittirOpearoru.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\KucukVeKucukEsittirOpearoru\obj\Debug\KucukVeKucukEsittirOpearoru.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\KucukVeKucukEsittirOpearoru\obj\Debug\KucukVeKucukEsittirOpearoru.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\KucukVeKucukEsittirOpearoru\obj\Debug\KucukVeKucukEsittirOpearoru.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\KucukVeKucukEsittirOpearoru\obj\Debug\KucukVeKucukEsittirOpearoru.pdb

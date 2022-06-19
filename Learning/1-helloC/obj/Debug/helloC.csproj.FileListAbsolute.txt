@@ -1,0 +1,3 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\helloC\obj\Debug\helloC.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\helloC\obj\Debug\helloC.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\helloC\obj\Debug\helloC.csproj.CoreCompileInputs.cache

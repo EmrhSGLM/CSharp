@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BedenKitleEndeksi\bin\Debug\BedenKitleEndeksi.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BedenKitleEndeksi\bin\Debug\BedenKitleEndeksi.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BedenKitleEndeksi\bin\Debug\BedenKitleEndeksi.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BedenKitleEndeksi\obj\Debug\BedenKitleEndeksi.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BedenKitleEndeksi\obj\Debug\BedenKitleEndeksi.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BedenKitleEndeksi\obj\Debug\BedenKitleEndeksi.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BedenKitleEndeksi\obj\Debug\BedenKitleEndeksi.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BedenKitleEndeksi\obj\Debug\BedenKitleEndeksi.pdb

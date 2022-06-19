@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\StringDataType\bin\Debug\StringDataType.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\StringDataType\bin\Debug\StringDataType.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\StringDataType\bin\Debug\StringDataType.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\StringDataType\obj\Debug\StringDataType.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\StringDataType\obj\Debug\StringDataType.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\StringDataType\obj\Debug\StringDataType.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\StringDataType\obj\Debug\StringDataType.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\StringDataType\obj\Debug\StringDataType.pdb

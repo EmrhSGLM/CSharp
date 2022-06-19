@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DoubleDataType\bin\Debug\DoubleDataType.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DoubleDataType\bin\Debug\DoubleDataType.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DoubleDataType\bin\Debug\DoubleDataType.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DoubleDataType\obj\Debug\DoubleDataType.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DoubleDataType\obj\Debug\DoubleDataType.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DoubleDataType\obj\Debug\DoubleDataType.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DoubleDataType\obj\Debug\DoubleDataType.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DoubleDataType\obj\Debug\DoubleDataType.pdb

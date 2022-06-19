@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\VeOpearatoru\bin\Debug\VeOpearatoru.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\VeOpearatoru\bin\Debug\VeOpearatoru.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\VeOpearatoru\bin\Debug\VeOpearatoru.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\VeOpearatoru\obj\Debug\VeyaOpearatoru.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\VeOpearatoru\obj\Debug\VeyaOpearatoru.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\VeOpearatoru\obj\Debug\VeyaOpearatoru.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\VeOpearatoru\obj\Debug\VeOpearatoru.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\VeOpearatoru\obj\Debug\VeOpearatoru.pdb

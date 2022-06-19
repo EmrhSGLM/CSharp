@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\EsittirOperatoru\bin\Debug\EsittirOperatoru.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\EsittirOperatoru\bin\Debug\EsittirOperatoru.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\EsittirOperatoru\bin\Debug\EsittirOperatoru.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\EsittirOperatoru\obj\Debug\EsittirOperatoru.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\EsittirOperatoru\obj\Debug\EsittirOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\EsittirOperatoru\obj\Debug\EsittirOperatoru.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\EsittirOperatoru\obj\Debug\EsittirOperatoru.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\EsittirOperatoru\obj\Debug\EsittirOperatoru.pdb

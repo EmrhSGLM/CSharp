@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\BooleanDataType\bin\Debug\BooleanDataType.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\BooleanDataType\bin\Debug\BooleanDataType.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\BooleanDataType\bin\Debug\BooleanDataType.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\BooleanDataType\obj\Debug\BooleanDataType.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\BooleanDataType\obj\Debug\BooleanDataType.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\BooleanDataType\obj\Debug\BooleanDataType.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\BooleanDataType\obj\Debug\BooleanDataType.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\BooleanDataType\obj\Debug\BooleanDataType.pdb

@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\KullanicidanDegerAlma\bin\Debug\KullanicidanDegerAlma.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\KullanicidanDegerAlma\bin\Debug\KullanicidanDegerAlma.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\KullanicidanDegerAlma\bin\Debug\KullanicidanDegerAlma.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\KullanicidanDegerAlma\obj\Debug\KullanicidanDegerAlma.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\KullanicidanDegerAlma\obj\Debug\KullanicidanDegerAlma.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\KullanicidanDegerAlma\obj\Debug\KullanicidanDegerAlma.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\KullanicidanDegerAlma\obj\Debug\KullanicidanDegerAlma.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\KullanicidanDegerAlma\obj\Debug\KullanicidanDegerAlma.pdb

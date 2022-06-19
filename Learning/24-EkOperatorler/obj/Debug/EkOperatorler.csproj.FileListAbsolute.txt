@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\EkOperatorler\bin\Debug\EkOperatorler.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\EkOperatorler\bin\Debug\EkOperatorler.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\EkOperatorler\bin\Debug\EkOperatorler.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\EkOperatorler\obj\Debug\EkOperatorler.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\EkOperatorler\obj\Debug\EkOperatorler.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\EkOperatorler\obj\Debug\EkOperatorler.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\EkOperatorler\obj\Debug\EkOperatorler.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\EkOperatorler\obj\Debug\EkOperatorler.pdb

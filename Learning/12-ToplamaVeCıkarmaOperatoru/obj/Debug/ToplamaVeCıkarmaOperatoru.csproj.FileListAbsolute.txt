@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\ToplamaVeCıkarmaOperatoru\bin\Debug\ToplamaVeCıkarmaOperatoru.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\ToplamaVeCıkarmaOperatoru\bin\Debug\ToplamaVeCıkarmaOperatoru.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\ToplamaVeCıkarmaOperatoru\bin\Debug\ToplamaVeCıkarmaOperatoru.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\ToplamaVeCıkarmaOperatoru\obj\Debug\ToplamaVeCıkarmaOperatoru.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\ToplamaVeCıkarmaOperatoru\obj\Debug\ToplamaVeCıkarmaOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\ToplamaVeCıkarmaOperatoru\obj\Debug\ToplamaVeCıkarmaOperatoru.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\ToplamaVeCıkarmaOperatoru\obj\Debug\ToplamaVeCıkarmaOperatoru.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\ToplamaVeCıkarmaOperatoru\obj\Debug\ToplamaVeCıkarmaOperatoru.pdb

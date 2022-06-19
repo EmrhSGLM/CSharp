@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\KosulYapisiOrnegi\bin\Debug\KosulYapisiOrnegi.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\KosulYapisiOrnegi\bin\Debug\KosulYapisiOrnegi.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\KosulYapisiOrnegi\bin\Debug\KosulYapisiOrnegi.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\KosulYapisiOrnegi\obj\Debug\KosulYapisiOrnegi.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\KosulYapisiOrnegi\obj\Debug\KosulYapisiOrnegi.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\KosulYapisiOrnegi\obj\Debug\KosulYapisiOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\KosulYapisiOrnegi\obj\Debug\KosulYapisiOrnegi.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\KosulYapisiOrnegi\obj\Debug\KosulYapisiOrnegi.pdb

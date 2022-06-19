@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DataCasting(TurDonusumleri)\bin\Debug\DataCasting(TurDonusumleri).exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DataCasting(TurDonusumleri)\bin\Debug\DataCasting(TurDonusumleri).exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DataCasting(TurDonusumleri)\bin\Debug\DataCasting(TurDonusumleri).pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DataCasting(TurDonusumleri)\obj\Debug\DataCasting(TurDonusumleri).csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DataCasting(TurDonusumleri)\obj\Debug\DataCasting(TurDonusumleri).csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DataCasting(TurDonusumleri)\obj\Debug\DataCasting(TurDonusumleri).csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DataCasting(TurDonusumleri)\obj\Debug\DataCasting(TurDonusumleri).exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DataCasting(TurDonusumleri)\obj\Debug\DataCasting(TurDonusumleri).pdb

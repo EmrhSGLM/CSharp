@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\IntDataType\bin\Debug\IntDataType.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\IntDataType\bin\Debug\IntDataType.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\IntDataType\bin\Debug\IntDataType.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\IntDataType\obj\Debug\IntDataType.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\IntDataType\obj\Debug\IntDataType.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\IntDataType\obj\Debug\IntDataType.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\IntDataType\obj\Debug\IntDataType.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\IntDataType\obj\Debug\IntDataType.pdb

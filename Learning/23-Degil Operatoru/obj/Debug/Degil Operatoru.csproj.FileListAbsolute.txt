@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\Degil Operatoru\bin\Debug\Degil Operatoru.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\Degil Operatoru\bin\Debug\Degil Operatoru.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\Degil Operatoru\bin\Debug\Degil Operatoru.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\Degil Operatoru\obj\Debug\Degil Operatoru.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\Degil Operatoru\obj\Debug\Degil Operatoru.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\Degil Operatoru\obj\Debug\Degil Operatoru.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\Degil Operatoru\obj\Debug\Degil Operatoru.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\Degil Operatoru\obj\Debug\Degil Operatoru.pdb

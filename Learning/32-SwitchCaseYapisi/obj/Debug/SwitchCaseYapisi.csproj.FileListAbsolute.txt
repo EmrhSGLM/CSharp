@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\SwitchCaseYapisi\bin\Debug\SwitchCaseYapisi.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\SwitchCaseYapisi\bin\Debug\SwitchCaseYapisi.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\SwitchCaseYapisi\bin\Debug\SwitchCaseYapisi.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\SwitchCaseYapisi\obj\Debug\SwitchCaseYapisi.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\SwitchCaseYapisi\obj\Debug\SwitchCaseYapisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\SwitchCaseYapisi\obj\Debug\SwitchCaseYapisi.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\SwitchCaseYapisi\obj\Debug\SwitchCaseYapisi.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\SwitchCaseYapisi\obj\Debug\SwitchCaseYapisi.pdb

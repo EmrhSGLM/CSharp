@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\LongDataType\bin\Debug\LongDataType.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\LongDataType\bin\Debug\LongDataType.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\LongDataType\bin\Debug\LongDataType.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\LongDataType\obj\Debug\LongDataType.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\LongDataType\obj\Debug\LongDataType.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\LongDataType\obj\Debug\LongDataType.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\LongDataType\obj\Debug\LongDataType.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\helloC\LongDataType\obj\Debug\LongDataType.pdb

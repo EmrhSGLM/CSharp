@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\MiniATMProjesi\bin\Debug\MiniATMProjesi.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\MiniATMProjesi\bin\Debug\MiniATMProjesi.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\MiniATMProjesi\bin\Debug\MiniATMProjesi.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\MiniATMProjesi\obj\Debug\MiniATMProjesi.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\MiniATMProjesi\obj\Debug\MiniATMProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\MiniATMProjesi\obj\Debug\MiniATMProjesi.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\MiniATMProjesi\obj\Debug\MiniATMProjesi.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\MiniATMProjesi\obj\Debug\MiniATMProjesi.pdb

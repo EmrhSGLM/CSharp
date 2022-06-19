@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\ForLoopPractise\bin\Debug\ForLoopPractise.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\ForLoopPractise\bin\Debug\ForLoopPractise.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\ForLoopPractise\bin\Debug\ForLoopPractise.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\ForLoopPractise\obj\Debug\ForLoopPractise.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\ForLoopPractise\obj\Debug\ForLoopPractise.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\ForLoopPractise\obj\Debug\ForLoopPractise.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\ForLoopPractise\obj\Debug\ForLoopPractise.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\ForLoopPractise\obj\Debug\ForLoopPractise.pdb

@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\CharDataType\bin\Debug\CharDataType.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\CharDataType\bin\Debug\CharDataType.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\CharDataType\bin\Debug\CharDataType.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\CharDataType\obj\Debug\CharDataType.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\CharDataType\obj\Debug\CharDataType.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\CharDataType\obj\Debug\CharDataType.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\CharDataType\obj\Debug\CharDataType.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\CharDataType\obj\Debug\CharDataType.pdb

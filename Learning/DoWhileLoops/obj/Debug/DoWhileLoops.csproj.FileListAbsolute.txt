@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DoWhileLoops\bin\Debug\DoWhileLoops.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DoWhileLoops\bin\Debug\DoWhileLoops.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DoWhileLoops\bin\Debug\DoWhileLoops.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DoWhileLoops\obj\Debug\DoWhileLoops.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DoWhileLoops\obj\Debug\DoWhileLoops.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DoWhileLoops\obj\Debug\DoWhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DoWhileLoops\obj\Debug\DoWhileLoops.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\DoWhileLoops\obj\Debug\DoWhileLoops.pdb

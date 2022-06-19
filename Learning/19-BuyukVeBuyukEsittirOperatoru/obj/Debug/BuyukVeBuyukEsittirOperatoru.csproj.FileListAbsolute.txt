@@ -1,0 +1,8 @@
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\BuyukVeBuyukEsittirOperatoru\bin\Debug\BuyukVeBuyukEsittirOperatoru.exe.config
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\BuyukVeBuyukEsittirOperatoru\bin\Debug\BuyukVeBuyukEsittirOperatoru.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\BuyukVeBuyukEsittirOperatoru\bin\Debug\BuyukVeBuyukEsittirOperatoru.pdb
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\BuyukVeBuyukEsittirOperatoru\obj\Debug\BuyukVeBuyukEsittirOperatoru.csproj.AssemblyReference.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\BuyukVeBuyukEsittirOperatoru\obj\Debug\BuyukVeBuyukEsittirOperatoru.csproj.SuggestedBindingRedirects.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\BuyukVeBuyukEsittirOperatoru\obj\Debug\BuyukVeBuyukEsittirOperatoru.csproj.CoreCompileInputs.cache
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\BuyukVeBuyukEsittirOperatoru\obj\Debug\BuyukVeBuyukEsittirOperatoru.exe
+C:\Users\derdi\OneDrive\Masaüstü\C#\Learning\BooleanDataType\BuyukVeBuyukEsittirOperatoru\obj\Debug\BuyukVeBuyukEsittirOperatoru.pdb
