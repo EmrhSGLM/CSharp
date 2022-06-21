@@ -10,7 +10,7 @@ namespace Constructors
     {
         static void Main(string[] args)
         {
-            CustomerManager customerManager = new CustomerManager(10);
+            CustomerManager customerManager = new CustomerManager(23);
             customerManager.List();
             CustomerManager customerManager1 = new CustomerManager();
             customerManager1.List();
@@ -25,7 +25,7 @@ namespace Constructors
     class CustomerManager
     {
 
-        private int _count = 15; // field alt cizgi ile baslatilir
+        private int _count = 71; // field alt cizgi ile baslatilir
 
         public CustomerManager(int count)
         {
