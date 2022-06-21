@@ -1,0 +1,12 @@
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.exe.config
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.exe
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiersDemo.pdb
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiers.exe
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiers.pdb
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiersDemo\bin\Debug\AccessModifiers.exe.config
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.AssemblyReference.cache
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.CoreCompileInputs.cache
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.csproj.CopyComplete
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.exe
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiersDemo\obj\Debug\AccessModifiersDemo.pdb

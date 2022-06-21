@@ -1,0 +1,8 @@
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.csproj.SuggestedBindingRedirects.cache
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\SA014\Desktop\C#\CSharpCourse\AccessModifiers\obj\Debug\AccessModifiers.pdb
