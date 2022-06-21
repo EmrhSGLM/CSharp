@@ -15,6 +15,8 @@ namespace Constructors
             CustomerManager customerManager1 = new CustomerManager();
             customerManager1.List();
 
+
+
             Console.ReadLine();
 
         }
