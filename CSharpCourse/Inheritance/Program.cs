@@ -46,7 +46,6 @@ namespace Inheritance
     class Person2
     {
        
-
     }
 
     class Customer : Person

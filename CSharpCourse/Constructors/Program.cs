@@ -10,12 +10,11 @@ namespace Constructors
     {
         static void Main(string[] args)
         {
+            
             CustomerManager customerManager = new CustomerManager(23);
             customerManager.List();
             CustomerManager customerManager1 = new CustomerManager();
             customerManager1.List();
-
-
 
             Console.ReadLine();
 
