@@ -6,11 +6,3 @@ C:\Users\SA014\Desktop\C#\CSharpCourse\Constructors\obj\Debug\Constructors.cspro
 C:\Users\SA014\Desktop\C#\CSharpCourse\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
 C:\Users\SA014\Desktop\C#\CSharpCourse\Constructors\obj\Debug\Constructors.exe
 C:\Users\SA014\Desktop\C#\CSharpCourse\Constructors\obj\Debug\Constructors.pdb
-C:\Users\derdi\OneDrive\Masaüstü\C#\CSharpCourse\Constructors\bin\Debug\Constructors.exe.config
-C:\Users\derdi\OneDrive\Masaüstü\C#\CSharpCourse\Constructors\bin\Debug\Constructors.exe
-C:\Users\derdi\OneDrive\Masaüstü\C#\CSharpCourse\Constructors\bin\Debug\Constructors.pdb
-C:\Users\derdi\OneDrive\Masaüstü\C#\CSharpCourse\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
-C:\Users\derdi\OneDrive\Masaüstü\C#\CSharpCourse\Constructors\obj\Debug\Constructors.csproj.SuggestedBindingRedirects.cache
-C:\Users\derdi\OneDrive\Masaüstü\C#\CSharpCourse\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
-C:\Users\derdi\OneDrive\Masaüstü\C#\CSharpCourse\Constructors\obj\Debug\Constructors.exe
-C:\Users\derdi\OneDrive\Masaüstü\C#\CSharpCourse\Constructors\obj\Debug\Constructors.pdb
