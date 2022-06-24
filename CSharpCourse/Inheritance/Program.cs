@@ -10,6 +10,7 @@ namespace Inheritance
     {
         static void Main(string[] args)
         {
+
             Person[] persons = new Person[3]
             {
                 new Customer
